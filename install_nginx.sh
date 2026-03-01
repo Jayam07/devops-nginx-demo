@@ -1,4 +1,6 @@
 #!/bin/bash
+#
+echo" installing.."
 
 sudo apt-get update -y
 
